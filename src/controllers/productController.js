@@ -1,4 +1,4 @@
-/ File: controllers/productController.js
+// File: controllers/productController.js
 import Product from '../models/Product.js';
 
 // Get all products
