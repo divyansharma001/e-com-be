@@ -87,6 +87,3 @@ npm start
 - `POST /payments/create` - Create a payment session
 - `POST /payments/verify` - Verify payment
 
-## License
-This project is licensed under the MIT License.
-
