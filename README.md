@@ -148,7 +148,7 @@ docker run -p 5000:5000 --env-file .env ecommerce-api
 ## 📌 Deployment on Render
 
 1. **Push to GitHub**
-2. **Go to ****[Render](https://render.com/)** → Create New Web Service
+2. **Go to** **[Render](https://render.com/)** → Create New Web Service
 3. **Connect GitHub Repo** → Select `Docker` Environment
 4. **Set Environment Variables** (same as `.env`)
 5. **Deploy!** 🎉
